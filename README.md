@@ -1,6 +1,18 @@
 # Matrix client SDK for php
 [![Software License][ico-license]](LICENSE.md)
 
+## This library is archived!
+
+The original repository for this package was deleted sometime in the summer of 2022 by its original author.
+
+I was the maintainer of the Packagist configuration for it, however, so I have pointed Packagist at this
+repository to maintain access for any existing users.
+
+This package has been forked as [`meet-kinksters/php-matrix-sdk`](https://github.com/meet-kinksters/php-matrix-sdk)
+where I will perform any future updates and can entertain PRs.
+
+---
+
 This is a Matrix client-server SDK for php 7.0+, mostly copied from [matrix-org/matrix-python-sdk][python-pck]
 
 This package is still a work in progress, and at the current time, not everything has been ported:
