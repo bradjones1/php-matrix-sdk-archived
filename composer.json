@@ -1,6 +1,7 @@
 {
     "name": "aryess/php-matrix-sdk",
     "type": "library",
+    "abandoned": "meet-kinksters/php-matrix-sdk",
     "description": "Later",
     "keywords": [
         "PhpMatrixSdk"
